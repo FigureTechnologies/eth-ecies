@@ -1,3 +1,6 @@
+## Why fork this
+This uses aes-cbc we need aes-gcm, hence the main reasonm for the fork..
+
 eth-ecies
 ---
 ECIES encrypt/decrypt library for Ethereum
